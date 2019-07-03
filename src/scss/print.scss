@@ -1,0 +1,8 @@
+@media print {
+    a {
+        text-decoration: none !important;
+    }
+    .height-half-on-print {
+        min-height: 50vh !important;
+    }
+}
