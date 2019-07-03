@@ -2,10 +2,12 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyPlugin = require('copy-webpack-plugin');
 console.log('env', process.env.NODE_ENV);
-const folder = process.env.NODE_ENV == "production" ? "docs" : "dist";
+// const folder = process.env.NODE_ENV == "production" ? "docs" : "dist
+const folder = "dist"
 module.exports = {
     entry: './src/app.js',
-    devtool: 'inline-source-map',
+    devtool: 'source-map',
+    mode: process.env.NODE_ENV == "production" ? "production" : "development",
     module: {
         rules: [{
             test: /\.scss$/,
@@ -27,7 +29,7 @@ module.exports = {
         extensions: ['.js', '.css', '.scss']
     },
     output: {
-        filename: 'bundle.js',
+        filename: 'bundle.[contenthash].js',
         path: path.resolve(__dirname, `../${folder}/`)
     },
     plugins: [
