@@ -1,0 +1,43 @@
+---
+name: awards.mahal
+description:
+dateCreated:
+---
+
+<html>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column height-half-on-print" id="achievements">
+	<div>
+		<h2 class="mb-5">Achievements</h2>
+		<ul class="fa-ul mb-0">
+			<li class="margin-bottom-10px">
+				<i class="fa-li fa fa-trophy text-warning"></i>Recognised internationally by open source community for
+				project - JsStore, SqlWeb, FortJs and more.
+			</li>
+			<li class="margin-bottom-10px">
+				<i class="fa-li fa fa-trophy text-warning"></i>Author on freecodecamp -
+				https://www.freecodecamp.org/news/author/ujjwal/
+			</li>
+			<li class="margin-bottom-10px">
+				<i class="fa-li fa fa-trophy text-warning"></i>1850+ score on stackoverflow
+			</li>
+			<li class="margin-bottom-10px">
+				<i class="fa-li fa fa-trophy text-warning"></i>
+				1st place in Bhubaneswar Hackathon organised by Muvi in year 2017
+			</li>
+			<li class="margin-bottom-10px">
+				<i class="fa-li fa fa-trophy text-warning"></i>
+				Microsoft Certified Technology Specialist .Net Framework 4, Web Application
+			</li>
+		</ul>
+	</div>
+</section>
+</html>
+
+<script>
+import { Component } from "mahal";
+
+export default class extends Component {}
+</script>
+
+<style>
+</style>

@@ -1,0 +1,48 @@
+---
+name: interest.mahal
+description:
+dateCreated:
+---
+
+<html>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column height-half-on-print" id="interests">
+	<div>
+		<h2 class="mb-5">Interests</h2>
+		<ul class="fa-ul mb-0 list-item list-type-square">
+			<li>
+				<b>Coding - </b> Love to code and learn new technology.
+			</li>
+			<li>
+				<b>Contributing For Open Source - </b> Create open source projects, interact with people from all over
+				the
+				world,
+				presenting session on different technology in local community or tech events.
+			</li>
+			<li>
+				<b>Travelling - </b> Love to travel and visit different places around the world.
+			</li>
+			<li>
+				<b>Cooking - </b> Cook on weekend and make something delicious.
+			</li>
+			<li>
+				<b>Exercise - </b> Try to stay fit by doing exercises, yoga, swimming, running and other activities.
+			</li>
+			<li>
+				<b>MotorCycling - </b> Love to drive motorcycle and generally take a small ride on weekend.
+			</li>
+			<li>
+				<b>Blogging - </b> Write about what i know and share with whole world.
+			</li>
+		</ul>
+	</div>
+</section>
+</html>
+
+<script>
+import { Component } from "mahal";
+
+export default class extends Component {}
+</script>
+
+<style>
+</style>

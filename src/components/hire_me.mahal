@@ -1,0 +1,50 @@
+---
+name: hire_me.mahal
+description:
+dateCreated:
+---
+
+<html>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column height-half-on-print" id="hire-me">
+	<h2 class="mb-5">Hire Me</h2>
+	<pre style="font-weight: bold;">
+        var question1 = "Are you developing something exciting or an awesome future product ?";
+        var question2 = "do you want me to work with you on your amazing journey ?";
+        
+        var answer = {
+          question1:true,
+          question2:true
+        };
+
+        if( answer.question1 === true && answer.question2 === true) {
+            print("Let's have a talk. Message me using any of the social network platform or 
+            mail me at - ujjwalkumargupta44@gmail.com");
+
+            print ("I am also very OK to working remotely & actually i would love to.")
+        }
+        else {
+            print("Let's connect on any of the social platform.");
+        }
+      </pre>
+	<p style="font-size: 30px; text-align: center;">
+		<a target="_blank" href="https://twitter.com/ujjwal_kr_gupta">
+			<i class="fab fa-twitter"></i>
+		</a>
+		<a style="margin-left:20px;" target="_blank" href="https://www.linkedin.com/in/ujjwalkrgupta/">
+			<i class="fab fa-linkedin-in"></i>
+		</a>
+		<a style="margin-left:20px;" target="_blank" href="https://ujjwalkrgupta.medium.com/">
+			<i class="fab fa-medium-m"></i>
+		</a>
+	</p>
+</section>
+</html>
+
+<script>
+import { Component } from "mahal";
+
+export default class extends Component {}
+</script>
+
+<style>
+</style>

@@ -13,6 +13,9 @@ dateCreated:
 		<Project />
 		<Education />
 		<Skills />
+		<Achievements />
+		<Interest />
+		<HireMe />
 	</div>
 </div>
 </html>
@@ -26,6 +29,10 @@ import Experience from "@/components/experience.mahal";
 import Project from "@/components/project.mahal";
 import Education from "@/components/education.mahal";
 import Skills from "@/components/skills.mahal";
+import Achievements from "@/components/achievements.mahal";
+import Interest from "@/components/interest.mahal";
+import HireMe from "@/components/hire_me.mahal";
+
 declare var $;
 
 @Children({
@@ -35,6 +42,9 @@ declare var $;
     Project,
     Education,
     Skills,
+    Achievements,
+    Interest,
+    HireMe,
 })
 export default class extends BaseComponent {
     @Reactive appName = "Mahal";
