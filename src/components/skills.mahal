@@ -1,0 +1,179 @@
+---
+name: skills.mahal
+description:
+dateCreated:
+---
+
+<html>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+	<div>
+		<h2 class="mb-5">Skills</h2>
+		
+		<div class="subheading mb-3">Programming Languages &amp; Tools</div>
+		<ul class="list-inline list-icons">
+			<li class="list-inline-item">
+				<i class="devicon-csharp-plain"></i>
+				<span class="skill-text">C-Sharp</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-javascript-plain"></i>
+				<span class="skill-text">JavaScript</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-typescript-plain"></i>
+				<span class="skill-text">TypeScript</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-dot-net-plain"></i>
+				<span class="skill-text">.net</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-html5-plain"></i>
+				<span class="skill-text">Html5</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-css3-plain"></i>
+				<span class="skill-text">Css3</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-less-plain-wordmark"></i>
+				<span class="skill-text">Less</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-bootstrap-plain"></i>
+				<span class="skill-text">Bootstrap</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-sass-original"></i>
+				<span class="skill-text">Saas</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-jquery-plain"></i>
+				<span class="skill-text">Jquery</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-vuejs-plain"></i>
+				<span class="skill-text">VueJs</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-react-original"></i>
+				<span class="skill-text">ReactJs</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-angularjs-plain"></i>
+				<span class="skill-text">Angular</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-webpack-plain"></i>
+				<span class="skill-text">Webpack</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="fab fa-node"></i>
+				<span class="skill-text">NodeJs</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-express-original"></i>
+				<span class="skill-text">Express</span>
+			</li>
+			<li class="list-inline-item">
+				<img src="img/nest.svg" style="width:50px;height:55px;vertical-align:sub;line-height:1;" />
+				<span class="skill-text">NestJs</span>
+			</li>
+			<li class="list-inline-item">
+				<img src="img/electron.svg" style="width:50px;height:50px;vertical-align:baseline;line-height:1;" />
+				<span class="skill-text">ElectronJs</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-mocha-plain"></i>
+				<span class="skill-text">Mocha</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-mysql-plain"></i>
+				<span class="skill-text">MySql</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-mongodb-plain"></i>
+				<span class="skill-text">MongoDb</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-visualstudio-plain"></i>
+				<span class="skill-text">Visual Studio</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-trello-plain"></i>
+				<span class="skill-text">Trello</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-bitbucket-plain"></i>
+				<span class="skill-text">BitBucket</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-github-plain"></i>
+				<span class="skill-text">Github</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-git-plain"></i>
+				<span class="skill-text">Git</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-nginx-original"></i>
+				<span class="skill-text">Nginix</span>
+			</li>
+			<li class="list-inline-item">
+				<i class="devicon-travis-plain"></i>
+				<span class="skill-text">Travis</span>
+			</li>
+			<li class="list-inline-item">
+				<img src="img/cordova_bot.png" style="width:50px;height:50px;vertical-align:baseline;line-height:1;" />
+				<span class="skill-text">Cordova</span>
+			</li>
+			<li class="list-inline-item">
+				<img src="img/nuxt.png" style="width:90px;height:50px;vertical-align:sub;line-height:1;" />
+				<span class="skill-text">NuxtJs</span>
+			</li>
+		</ul>
+		<div class="subheading mb-3">MISC</div>
+		<ul>
+			<li>Can lead a team or multiple team.</li>
+			<li>Can help hiring great engineers.</li>
+		</ul>
+		<!-- <div class="subheading mb-3" style="margin-top: 40px;">Workflow</div>
+        <ul class="fa-ul mb-0 list-item">
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Pixel Perfect Design
+          </li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Mobile-First, Responsive Design</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Cross Browser Testing &amp; Debugging</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Cross Functional Teams</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Agile Development &amp; Scrum</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Latest Technology Knowledge</li>
+          </li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Writing Optimized & Maintainable Code</li>
+          </li>
+        </ul>
+        -->
+	</div>
+</section>
+</html>
+
+<script>
+import { Component } from "mahal";
+
+export default class extends Component {}
+</script>
+
+<style>
+</style>

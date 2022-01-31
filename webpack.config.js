@@ -8,37 +8,49 @@ module.exports = {
     devtool: 'source-map',
     mode: process.env.NODE_ENV || "development",
     module: {
-        rules: [{
-            test: /\.mahal?$/,
-            // loader: 'mahal-webpack-loader',
-            use: {
-                loader: require.resolve('mahal-webpack-loader')
+        rules: [
+            {
+                test: /\.mahal?$/,
+                // loader: 'mahal-webpack-loader',
+                use: {
+                    loader: require.resolve('mahal-webpack-loader')
+                },
+                exclude: /node_modules/
             },
-            exclude: /node_modules/
-        },
-        {
-            test: /\.css?$/,
-            use: [
-                'style-loader',
-                {
-                    loader: require.resolve('css-loader')
-                }
-            ],
-        },
-        {
-            test: /\.ts?$/,
-            use: {
-                loader: 'ts-loader',
-                options: {
-                    appendTsSuffixTo: [/\.mahal$/],
-                }
+            {
+                test: /\.css?$/,
+                use: [
+                    'style-loader',
+                    {
+                        loader: require.resolve('css-loader')
+                    }
+                ],
             },
-            exclude: /node_modules/,
-        }
+            {
+                test: /\.s[ac]ss$/i,
+                use: [
+                    // Creates `style` nodes from JS strings
+                    "style-loader",
+                    // Translates CSS into CommonJS
+                    "css-loader",
+                    // Compiles Sass to CSS
+                    "sass-loader",
+                ],
+            },
+            {
+                test: /\.ts?$/,
+                use: {
+                    loader: 'ts-loader',
+                    options: {
+                        appendTsSuffixTo: [/\.mahal$/],
+                    }
+                },
+                exclude: /node_modules/,
+            }
         ]
     },
     resolve: {
-        extensions: ['.ts', '.js', '.css', '.mahal'],
+        extensions: ['.ts', '.js', '.css', '.mahal', '.scss'],
         alias: {
             "~": path.join(__dirname),
             "@": path.join(__dirname, 'src'),
@@ -46,9 +58,16 @@ module.exports = {
             "@components": path.join(__dirname, 'src', 'components')
         },
     },
+    devServer: {
+        static: {
+            directory: path.join(__dirname, 'public'),
+        },
+        historyApiFallback: true,
+    },
     output: {
         filename: 'bundles.js',
-        path: path.resolve(__dirname, 'dist/')
+        path: path.resolve(__dirname, 'dist/'),
+        publicPath: '/'
     },
     plugins: [
         new MahalPlugin({

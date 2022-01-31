@@ -1,0 +1,88 @@
+---
+name: about.mahal
+description:
+dateCreated:
+---
+
+<html>
+<section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+	<div class="my-auto">
+		<h1 class="mb-0">Ujjwal
+			<span class="text-primary">Gupta</span>
+		</h1>
+		<br/>
+		<div class="subheading mb-5">Bengaluru (India)
+		</div>
+		<p class="mb-5">
+			<!-- Author of JsStore and Fortjs. A young tech enthusiast and fast learner who love to code, research and not limited to any
+          programming language or technology. -->
+			<!-- A young tech enthusiast and fast learner who love to code, research and not
+          limited to any particular programming language or technology. I am polyglot software developer and keep myself
+          updated with latest technology trends & ready to learn or experiment with different tech stack
+          as required. -->
+			Creator of popular projects JsStore & FortJs | Full stack web developer | Polyglot developer | Tech
+			enthusiast
+			| Javascript & Typescript Lover | Sleeper
+		</p>
+		<ul class="list-social-icons mb-0">
+			<li>
+				<a target="_blank" href="https://twitter.com/ujjwal_kr_gupta">
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+					</span>
+					<span class="text">https://twitter.com/ujjwal_kr_gupta</span>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://www.linkedin.com/in/ujjwalkrgupta/">
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fab fa-linkedin-in fa-stack-1x fa-inverse"></i>
+					</span>
+					<span class="text">https://www.linkedin.com/in/ujjwalkrgupta</span>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://github.com/ujjwalguptaofficial/">
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fab fa-github fa-stack-1x fa-inverse"></i>
+					</span>
+					<span class="text">https://github.com/ujjwalguptaofficial</span>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://stackoverflow.com/users/4393136/ujjwal-kumar-gupta/">
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
+					</span>
+					<span class="text">https://stackoverflow.com/users/4393136/ujjwal-kumar-gupta</span>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://medium.com/@ujjwalgupta_57939">
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fab fa-medium-m fa-stack-1x fa-inverse"></i>
+					</span>
+					<span class="text">https://medium.com/@ujjwalgupta_57939</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+</section>
+</html>
+
+<script>
+import { Component } from "mahal";
+
+export default class extends Component {}
+</script>
+
+<style scoped>
+.my-auto {
+    width: 100%;
+}
+</style>

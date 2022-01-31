@@ -6,8 +6,14 @@ dateCreated:
 
 <html>
 <div>
-	<h1>Welcome to the {{appName}} App</h1>
 	<NavBar />
+	<div class="container-fluid p-0">
+		<About />
+		<Experience />
+		<Project />
+		<Education />
+		<Skills />
+	</div>
 </div>
 </html>
 
@@ -15,9 +21,20 @@ dateCreated:
 import { BaseComponent } from "@/components/base_component";
 import { Children, Reactive } from "mahal";
 import NavBar from "@/components/nav_bar.mahal";
+import About from "@/components/about.mahal";
+import Experience from "@/components/experience.mahal";
+import Project from "@/components/project.mahal";
+import Education from "@/components/education.mahal";
+import Skills from "@/components/skills.mahal";
+declare var $;
 
 @Children({
     NavBar,
+    About,
+    Experience,
+    Project,
+    Education,
+    Skills,
 })
 export default class extends BaseComponent {
     @Reactive appName = "Mahal";
@@ -26,7 +43,6 @@ export default class extends BaseComponent {
         console.log("component initiated");
         this.on("create", this.created);
         this.on("mount", this.mounted);
-        this.on("destroy", this.destroyed);
     }
 
     created() {
@@ -34,14 +50,38 @@ export default class extends BaseComponent {
     }
 
     mounted() {
-        console.log("component mounted - UI has been rendered");
-    }
+        $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () {
+            if (
+                location.pathname.replace(/^\//, "") ==
+                    this.pathname.replace(/^\//, "") &&
+                location.hostname == this.hostname
+            ) {
+                var target = $(this.hash);
+                target = target.length
+                    ? target
+                    : $("[name=" + this.hash.slice(1) + "]");
+                if (target.length) {
+                    $("html, body").animate(
+                        {
+                            scrollTop: target.offset().top,
+                        },
+                        1000,
+                        "easeInOutExpo"
+                    );
+                    return false;
+                }
+            }
+        });
 
-    destroyed() {
-        console.log("component destroyed - Let's unsubscribe to events");
+        // Closes responsive menu when a scroll trigger link is clicked
+        $(".js-scroll-trigger").click(function () {
+            $(".navbar-collapse").collapse("hide");
+        });
+
+        // Activate scrollspy to add active class to navbar items on scroll
+        $("body").scrollspy({
+            target: "#sideNav",
+        });
     }
 }
 </script>
-
-<style>
-</style>
