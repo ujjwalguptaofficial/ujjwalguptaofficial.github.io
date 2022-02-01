@@ -1,7 +1,7 @@
 "use strict";
 (self["webpackChunkmahal_app"] = self["webpackChunkmahal_app"] || []).push([[179],{
 
-/***/ 278:
+/***/ 124:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -16,7 +16,7 @@
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.my-auto[mahal-7e28e462] {\n    width: 100%;\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.my-auto[mahal-c90de2b4] {\n    width: 100%;\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -67,7 +67,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "\n", ""]);
 
 /***/ }),
 
-/***/ 297:
+/***/ 258:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -177,7 +177,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "\n", ""]);
 
 /***/ }),
 
-/***/ 233:
+/***/ 735:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -221,7 +221,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "body{font-family:\"Open Sans\",serif;p
 
 /***/ }),
 
-/***/ 333:
+/***/ 406:
 /***/ ((__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) => {
 
 
@@ -726,8 +726,8 @@ var render_component = __webpack_require__(394);
         render:nav_bar_mahal_mahal_type_html_id_186821b7_scoped_false
     })
     /* harmony default export */ const nav_bar_mahal = (component);
-;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=html&id=7e28e462&scoped=true
-function about_mahal_mahal_type_html_id_7e28e462_scoped_true_anonymous(renderer
+;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=html&id=c90de2b4&scoped=true
+function about_mahal_mahal_type_html_id_c90de2b4_scoped_true_anonymous(renderer
 ) {
 const ctx = this;
 const ce = renderer.createElement;
@@ -739,7 +739,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'text-primary'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -748,13 +748,13 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'mb-0'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 }), ce('br', [], {
     attr: {
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -763,28 +763,28 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'subheading mb-5'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 }), ce('p', [ce(null, [ct(" Author of JsStore and Fortjs. A young tech enthusiast and fast learner who love to code, research and not limited to any\n          programming language or technology. ")], {
     attr: {
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 }), ce(null, [ct(" A young tech enthusiast and fast learner who love to code, research and not\n          limited to any particular programming language or technology. I am polyglot software developer and keep myself\n          updated with latest technology trends & ready to learn or experiment with different tech stack\n          as required. ")], {
     attr: {
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
-}), ct(" Creator of popular projects JsStore & FortJs | Full stack web developer | Polyglot developer | Tech enthusiast | Javascript & Typescript Lover | Sleeper ")], {
+}), ct(" Creator of popular projects JsStore & FortJs | Full stack web developer | Polyglot developer | Tech enthusiast | Javascript & Typescript Expert | Framework , library developer ")], {
     attr: {
         'class': {
             v: 'mb-5'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -793,7 +793,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa fa-circle fa-stack-2x'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -802,7 +802,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fab fa-twitter fa-stack-1x fa-inverse'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -811,7 +811,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa-stack fa-lg'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -820,7 +820,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'text'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -832,13 +832,13 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'href': {
             v: 'https://twitter.com/ujjwal_kr_gupta'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -847,7 +847,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa fa-circle fa-stack-2x'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -856,7 +856,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fab fa-linkedin-in fa-stack-1x fa-inverse'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -865,7 +865,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa-stack fa-lg'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -874,7 +874,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'text'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -886,13 +886,13 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'href': {
             v: 'https://www.linkedin.com/in/ujjwalkrgupta/'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -901,7 +901,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa fa-circle fa-stack-2x'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -910,7 +910,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fab fa-github fa-stack-1x fa-inverse'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -919,7 +919,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa-stack fa-lg'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -928,7 +928,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'text'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -940,13 +940,13 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'href': {
             v: 'https://github.com/ujjwalguptaofficial/'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -955,7 +955,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa fa-circle fa-stack-2x'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -964,7 +964,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fab fa-stack-overflow fa-stack-1x fa-inverse'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -973,7 +973,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa-stack fa-lg'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -982,7 +982,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'text'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -994,13 +994,13 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'href': {
             v: 'https://stackoverflow.com/users/4393136/ujjwal-kumar-gupta/'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -1009,7 +1009,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa fa-circle fa-stack-2x'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -1018,7 +1018,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fab fa-medium-m fa-stack-1x fa-inverse'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -1027,7 +1027,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'fa-stack fa-lg'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -1036,7 +1036,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'text'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -1048,13 +1048,13 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'href': {
             v: 'https://ujjwalkrgupta.medium.com/'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -1063,7 +1063,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'list-social-icons mb-0'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -1072,7 +1072,7 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'class': {
             v: 'my-auto'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
@@ -1084,17 +1084,17 @@ return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta"
         'id': {
             v: 'about'
         },
-        'mahal-7e28e462': {
+        'mahal-c90de2b4': {
             v: ''
         }
     }
 })
 }
-;// CONCATENATED MODULE: ./src/components/about.mahal?mahal&type=html&id=7e28e462&scoped=true
- /* harmony default export */ const about_mahal_mahal_type_html_id_7e28e462_scoped_true = (about_mahal_mahal_type_html_id_7e28e462_scoped_true_anonymous); 
-// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=style&lang=css&index=0&id=7e28e462&scoped=true
-var about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true = __webpack_require__(278);
-;// CONCATENATED MODULE: ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=style&lang=css&index=0&id=7e28e462&scoped=true
+;// CONCATENATED MODULE: ./src/components/about.mahal?mahal&type=html&id=c90de2b4&scoped=true
+ /* harmony default export */ const about_mahal_mahal_type_html_id_c90de2b4_scoped_true = (about_mahal_mahal_type_html_id_c90de2b4_scoped_true_anonymous); 
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=style&lang=css&index=0&id=c90de2b4&scoped=true
+var about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true = __webpack_require__(124);
+;// CONCATENATED MODULE: ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=style&lang=css&index=0&id=c90de2b4&scoped=true
 
       
       
@@ -1106,27 +1106,27 @@ var about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true = __we
       
       
 
-var about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true_options = {};
+var about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true_options = {};
 
-about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true_options.styleTagTransform = (styleTagTransform_default());
-about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true_options.setAttributes = (setAttributesWithoutAttributes_default());
+about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true_options.styleTagTransform = (styleTagTransform_default());
+about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true_options.setAttributes = (setAttributesWithoutAttributes_default());
 
-      about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true_options.insert = insertBySelector_default().bind(null, "head");
+      about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true_options.insert = insertBySelector_default().bind(null, "head");
     
-about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true_options.domAPI = (styleDomAPI_default());
-about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true_options.insertStyleElement = (insertStyleElement_default());
+about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true_options.domAPI = (styleDomAPI_default());
+about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true_options.insertStyleElement = (insertStyleElement_default());
 
-var about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true_update = injectStylesIntoStyleTag_default()(about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true/* default */.Z, about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true_options);
-
-
+var about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true_update = injectStylesIntoStyleTag_default()(about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true/* default */.Z, about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true_options);
 
 
-       /* harmony default export */ const components_about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true = (about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true/* default */.Z && about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true/* default.locals */.Z.locals ? about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true/* default.locals */.Z.locals : undefined);
 
-;// CONCATENATED MODULE: ./src/components/about.mahal?mahal&type=style&lang=css&index=0&id=7e28e462&scoped=true
- /* harmony default export */ const src_components_about_mahal_mahal_type_style_lang_css_index_0_id_7e28e462_scoped_true = ((/* unused pure expression or super */ null && (code))); 
-;// CONCATENATED MODULE: ./node_modules/ts-loader/index.js??ruleSet[1].rules[3].use!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=script&lang=ts&id=7e28e462
-var about_mahal_mahal_type_script_lang_ts_id_7e28e462_extends = (undefined && undefined.__extends) || (function () {
+
+       /* harmony default export */ const components_about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true = (about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true/* default */.Z && about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true/* default.locals */.Z.locals ? about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true/* default.locals */.Z.locals : undefined);
+
+;// CONCATENATED MODULE: ./src/components/about.mahal?mahal&type=style&lang=css&index=0&id=c90de2b4&scoped=true
+ /* harmony default export */ const src_components_about_mahal_mahal_type_style_lang_css_index_0_id_c90de2b4_scoped_true = ((/* unused pure expression or super */ null && (code))); 
+;// CONCATENATED MODULE: ./node_modules/ts-loader/index.js??ruleSet[1].rules[3].use!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=script&lang=ts&id=c90de2b4
+var about_mahal_mahal_type_script_lang_ts_id_c90de2b4_extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
             ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -1142,17 +1142,17 @@ var about_mahal_mahal_type_script_lang_ts_id_7e28e462_extends = (undefined && un
     };
 })();
 
-var about_mahal_mahal_type_script_lang_ts_id_7e28e462_default_1 = /** @class */ (function (_super) {
-    about_mahal_mahal_type_script_lang_ts_id_7e28e462_extends(default_1, _super);
+var about_mahal_mahal_type_script_lang_ts_id_c90de2b4_default_1 = /** @class */ (function (_super) {
+    about_mahal_mahal_type_script_lang_ts_id_c90de2b4_extends(default_1, _super);
     function default_1() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     return default_1;
 }(npm_export.Component));
-/* harmony default export */ const about_mahal_mahal_type_script_lang_ts_id_7e28e462 = (about_mahal_mahal_type_script_lang_ts_id_7e28e462_default_1);
+/* harmony default export */ const about_mahal_mahal_type_script_lang_ts_id_c90de2b4 = (about_mahal_mahal_type_script_lang_ts_id_c90de2b4_default_1);
 
-;// CONCATENATED MODULE: ./src/components/about.mahal?mahal&type=script&lang=ts&id=7e28e462
- /* harmony default export */ const components_about_mahal_mahal_type_script_lang_ts_id_7e28e462 = (about_mahal_mahal_type_script_lang_ts_id_7e28e462); 
+;// CONCATENATED MODULE: ./src/components/about.mahal?mahal&type=script&lang=ts&id=c90de2b4
+ /* harmony default export */ const components_about_mahal_mahal_type_script_lang_ts_id_c90de2b4 = (about_mahal_mahal_type_script_lang_ts_id_c90de2b4); 
 ;// CONCATENATED MODULE: ./src/components/about.mahal
 
 
@@ -1162,12 +1162,12 @@ var about_mahal_mahal_type_script_lang_ts_id_7e28e462_default_1 = /** @class */ 
 
 ;
     var about_mahal_component = (0,render_component/* renderComponent */.S)({
-        script:components_about_mahal_mahal_type_script_lang_ts_id_7e28e462,
-        render:about_mahal_mahal_type_html_id_7e28e462_scoped_true
+        script:components_about_mahal_mahal_type_script_lang_ts_id_c90de2b4,
+        render:about_mahal_mahal_type_html_id_c90de2b4_scoped_true
     })
     /* harmony default export */ const about_mahal = (about_mahal_component);
-;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=html&id=33eb3dde&scoped=false
-function experience_mahal_mahal_type_html_id_33eb3dde_scoped_false_anonymous(renderer
+;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=html&id=95b95b94&scoped=false
+function experience_mahal_mahal_type_html_id_95b95b94_scoped_false_anonymous(renderer
 ) {
 const ctx = this;
 const ce = renderer.createElement;
@@ -1179,7 +1179,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'mb-5'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1188,7 +1188,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'mb-0'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1197,31 +1197,31 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'subheading mb-3'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
 }), ce('p', [ce('ul', [ce('li', [ct("Working remotely as Full stack engineer")], {
     attr: {
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
 }), ce('li', [ct("Writing optimized & maintainable code")], {
     attr: {
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
 }), ce('li', [ct("Researching and experimenting with different technology")], {
     attr: {
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
 }), ce('li', [ct("Technology advisor & trainer")], {
     attr: {
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1230,13 +1230,13 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'list-item'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1245,7 +1245,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'padding-top: 10px;'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1254,7 +1254,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'vertical-align: top;'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1263,7 +1263,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-content mr-auto'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1272,7 +1272,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'text-primary'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1281,7 +1281,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-date text-md-right'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1290,7 +1290,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-item d-flex flex-column flex-md-row mb-5'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1299,7 +1299,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'mb-0'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1308,13 +1308,13 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'subheading mb-3'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
 }), ce('p', [], {
     attr: {
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1323,7 +1323,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'padding-top: 10px;'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1332,7 +1332,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'vertical-align: top;'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1341,16 +1341,16 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-content mr-auto'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
-}), ce('div', [ce('span', [ct("Present")], {
+}), ce('div', [ce('span', [ct("March 2021")], {
     attr: {
         'class': {
             v: 'text-primary'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1359,7 +1359,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-date text-md-right'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1368,13 +1368,136 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-item d-flex flex-column flex-md-row mb-5'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('div', [ce('div', [ce('h3', [ct("Front End Lead")], {
+    attr: {
+        'class': {
+            v: 'mb-0'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('div', [ct("Polygon (Matic network)")], {
+    attr: {
+        'class': {
+            v: 'subheading mb-3'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('p', [ce('ul', [ce('li', [ct("Manging different projects with ownership - Matic.js, Bridge Explorer, Bridge widget etc")], {
+    attr: {
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('li', [ct("Managing front end team")], {
+    attr: {
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('li', [ct("Managing all front end projects")], {
+    attr: {
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('li', [ct("Mentoring everyone")], {
+    attr: {
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('li', [ct("Hiring resources")], {
+    attr: {
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('li', [ct("Helping users by different channels - Github issues, telegram etc")], {
+    attr: {
+        'mahal-95b95b94': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-33eb3dde': {
+        'class': {
+            v: 'list-item'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('h4', [ct("Tech Used : - ")], {
+    attr: {
+        'style': {
+            v: 'padding-top: 10px;'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('div', [ct(" Javascript, Typescript, VueJs, Vuex, NodeJs, Webpack, Html5, Css3, es6, BootStrap, Jquery, Web3.js, ether.js, Library development ")], {
+    attr: {
+        'style': {
+            v: 'vertical-align: top;'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'resume-content mr-auto'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+}), ce('div', [ce('span', [ct("Present")], {
+    attr: {
+        'class': {
+            v: 'text-primary'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'resume-date text-md-right'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'resume-item d-flex flex-column flex-md-row mb-5'
+        },
+        'mahal-95b95b94': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-95b95b94': {
             v: ''
         }
     }
@@ -1386,17 +1509,17 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'id': {
             v: 'experience'
         },
-        'mahal-33eb3dde': {
+        'mahal-95b95b94': {
             v: ''
         }
     }
 })
 }
-;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=html&id=33eb3dde&scoped=false
- /* harmony default export */ const experience_mahal_mahal_type_html_id_33eb3dde_scoped_false = (experience_mahal_mahal_type_html_id_33eb3dde_scoped_false_anonymous); 
-// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=33eb3dde&scoped=
-var experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_ = __webpack_require__(297);
-;// CONCATENATED MODULE: ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=33eb3dde&scoped=
+;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=html&id=95b95b94&scoped=false
+ /* harmony default export */ const experience_mahal_mahal_type_html_id_95b95b94_scoped_false = (experience_mahal_mahal_type_html_id_95b95b94_scoped_false_anonymous); 
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=95b95b94&scoped=
+var experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_ = __webpack_require__(258);
+;// CONCATENATED MODULE: ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=95b95b94&scoped=
 
       
       
@@ -1408,27 +1531,27 @@ var experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_ = __w
       
       
 
-var experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_options = {};
+var experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options = {};
 
-experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_options.styleTagTransform = (styleTagTransform_default());
-experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_options.setAttributes = (setAttributesWithoutAttributes_default());
+experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.styleTagTransform = (styleTagTransform_default());
+experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.setAttributes = (setAttributesWithoutAttributes_default());
 
-      experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_options.insert = insertBySelector_default().bind(null, "head");
+      experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.insert = insertBySelector_default().bind(null, "head");
     
-experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_options.domAPI = (styleDomAPI_default());
-experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_options.insertStyleElement = (insertStyleElement_default());
+experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.domAPI = (styleDomAPI_default());
+experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.insertStyleElement = (insertStyleElement_default());
 
-var experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_update = injectStylesIntoStyleTag_default()(experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_/* default */.Z, experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_options);
-
-
+var experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_update = injectStylesIntoStyleTag_default()(experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_/* default */.Z, experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options);
 
 
-       /* harmony default export */ const components_experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_ = (experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_/* default */.Z && experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_/* default.locals */.Z.locals ? experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_/* default.locals */.Z.locals : undefined);
 
-;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=33eb3dde&scoped=
- /* harmony default export */ const src_components_experience_mahal_mahal_type_style_lang_css_index_0_id_33eb3dde_scoped_ = ((/* unused pure expression or super */ null && (code))); 
-;// CONCATENATED MODULE: ./node_modules/ts-loader/index.js??ruleSet[1].rules[3].use!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=script&lang=ts&id=33eb3dde
-var experience_mahal_mahal_type_script_lang_ts_id_33eb3dde_extends = (undefined && undefined.__extends) || (function () {
+
+       /* harmony default export */ const components_experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_ = (experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_/* default */.Z && experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_/* default.locals */.Z.locals ? experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_/* default.locals */.Z.locals : undefined);
+
+;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=95b95b94&scoped=
+ /* harmony default export */ const src_components_experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_ = ((/* unused pure expression or super */ null && (code))); 
+;// CONCATENATED MODULE: ./node_modules/ts-loader/index.js??ruleSet[1].rules[3].use!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=script&lang=ts&id=95b95b94
+var experience_mahal_mahal_type_script_lang_ts_id_95b95b94_extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
             ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -1444,17 +1567,17 @@ var experience_mahal_mahal_type_script_lang_ts_id_33eb3dde_extends = (undefined 
     };
 })();
 
-var experience_mahal_mahal_type_script_lang_ts_id_33eb3dde_default_1 = /** @class */ (function (_super) {
-    experience_mahal_mahal_type_script_lang_ts_id_33eb3dde_extends(default_1, _super);
+var experience_mahal_mahal_type_script_lang_ts_id_95b95b94_default_1 = /** @class */ (function (_super) {
+    experience_mahal_mahal_type_script_lang_ts_id_95b95b94_extends(default_1, _super);
     function default_1() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     return default_1;
 }(npm_export.Component));
-/* harmony default export */ const experience_mahal_mahal_type_script_lang_ts_id_33eb3dde = (experience_mahal_mahal_type_script_lang_ts_id_33eb3dde_default_1);
+/* harmony default export */ const experience_mahal_mahal_type_script_lang_ts_id_95b95b94 = (experience_mahal_mahal_type_script_lang_ts_id_95b95b94_default_1);
 
-;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=script&lang=ts&id=33eb3dde
- /* harmony default export */ const components_experience_mahal_mahal_type_script_lang_ts_id_33eb3dde = (experience_mahal_mahal_type_script_lang_ts_id_33eb3dde); 
+;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=script&lang=ts&id=95b95b94
+ /* harmony default export */ const components_experience_mahal_mahal_type_script_lang_ts_id_95b95b94 = (experience_mahal_mahal_type_script_lang_ts_id_95b95b94); 
 ;// CONCATENATED MODULE: ./src/components/experience.mahal
 
 
@@ -1464,8 +1587,8 @@ var experience_mahal_mahal_type_script_lang_ts_id_33eb3dde_default_1 = /** @clas
 
 ;
     var experience_mahal_component = (0,render_component/* renderComponent */.S)({
-        script:components_experience_mahal_mahal_type_script_lang_ts_id_33eb3dde,
-        render:experience_mahal_mahal_type_html_id_33eb3dde_scoped_false
+        script:components_experience_mahal_mahal_type_script_lang_ts_id_95b95b94,
+        render:experience_mahal_mahal_type_html_id_95b95b94_scoped_false
     })
     /* harmony default export */ const experience_mahal = (experience_mahal_component);
 ;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/project.mahal?mahal&type=html&id=25d8413d&scoped=false
@@ -2000,8 +2123,8 @@ var education_mahal_mahal_type_script_lang_ts_id_40c1171b_default_1 = /** @class
         render:education_mahal_mahal_type_html_id_40c1171b_scoped_false
     })
     /* harmony default export */ const education_mahal = (education_mahal_component);
-;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=html&id=04644cf5&scoped=false
-function skills_mahal_mahal_type_html_id_04644cf5_scoped_false_anonymous(renderer
+;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=html&id=7c896ff1&scoped=false
+function skills_mahal_mahal_type_html_id_7c896ff1_scoped_false_anonymous(renderer
 ) {
 const ctx = this;
 const ce = renderer.createElement;
@@ -2013,7 +2136,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'mb-5'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2022,7 +2145,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'subheading mb-3'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2031,7 +2154,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-csharp-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2040,7 +2163,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2049,7 +2172,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2058,7 +2181,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-javascript-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2067,7 +2190,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2076,7 +2199,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2085,7 +2208,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-typescript-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2094,7 +2217,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2103,7 +2226,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2112,7 +2235,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-dot-net-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2121,7 +2244,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2130,7 +2253,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2139,7 +2262,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-html5-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2148,7 +2271,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2157,7 +2280,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2166,7 +2289,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-css3-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2175,7 +2298,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2184,7 +2307,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2193,7 +2316,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-less-plain-wordmark'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2202,7 +2325,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2211,7 +2334,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2220,7 +2343,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-bootstrap-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2229,7 +2352,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2238,7 +2361,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2247,7 +2370,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-sass-original'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2256,7 +2379,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2265,7 +2388,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2274,7 +2397,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-jquery-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2283,7 +2406,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2292,7 +2415,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2301,7 +2424,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-vuejs-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2310,7 +2433,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2319,7 +2442,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2328,7 +2451,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-react-original'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2337,7 +2460,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2346,7 +2469,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2355,7 +2478,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-angularjs-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2364,7 +2487,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2373,7 +2496,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2382,7 +2505,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-webpack-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2391,7 +2514,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2400,7 +2523,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2409,7 +2532,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'fab fa-node'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2418,7 +2541,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2427,7 +2550,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2436,7 +2559,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-express-original'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2445,7 +2568,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2454,7 +2577,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2466,7 +2589,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'style': {
             v: 'width:50px;height:55px;vertical-align:sub;line-height:1;'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2475,7 +2598,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2484,7 +2607,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2496,7 +2619,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'style': {
             v: 'width:50px;height:50px;vertical-align:baseline;line-height:1;'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2505,7 +2628,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2514,7 +2637,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2523,7 +2646,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-mocha-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2532,7 +2655,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2541,7 +2664,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2550,7 +2673,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-mysql-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2559,7 +2682,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2568,7 +2691,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2577,7 +2700,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-mongodb-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2586,7 +2709,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2595,7 +2718,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2604,7 +2727,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-visualstudio-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2613,7 +2736,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2622,7 +2745,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2631,7 +2754,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-trello-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2640,7 +2763,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2649,7 +2772,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2658,7 +2781,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-bitbucket-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2667,7 +2790,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2676,7 +2799,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2685,7 +2808,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-github-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2694,7 +2817,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2703,7 +2826,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2712,7 +2835,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-git-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2721,7 +2844,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2730,7 +2853,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2739,7 +2862,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-nginx-original'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2748,7 +2871,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2757,7 +2880,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2766,7 +2889,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'devicon-travis-plain'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2775,7 +2898,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2784,7 +2907,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2796,7 +2919,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'style': {
             v: 'width:50px;height:50px;vertical-align:baseline;line-height:1;'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2805,7 +2928,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2814,7 +2937,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2826,7 +2949,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'style': {
             v: 'width:90px;height:50px;vertical-align:sub;line-height:1;'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2835,7 +2958,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'skill-text'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2844,7 +2967,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline-item'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2853,7 +2976,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'list-inline list-icons'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2862,37 +2985,49 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'class': {
             v: 'subheading mb-3'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
 }), ce('ul', [ce('li', [ct("Can lead a team or multiple team.")], {
     attr: {
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
 }), ce('li', [ct("Can help hiring great engineers.")], {
     attr: {
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
+            v: ''
+        }
+    }
+}), ce('li', [ct("Can manage projects with ownership.")], {
+    attr: {
+        'mahal-7c896ff1': {
+            v: ''
+        }
+    }
+}), ce('li', [ct("Have worked with different startup, so can use the experience to help with different startup issues.")], {
+    attr: {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
 }), ce(null, [ct(" <div class=\"subheading mb-3\" style=\"margin-top: 40px;\">Workflow</div>\n        <ul class=\"fa-ul mb-0 list-item\">\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Pixel Perfect Design\n          </li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Mobile-First, Responsive Design</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Cross Browser Testing &amp; Debugging</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Cross Functional Teams</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Agile Development &amp; Scrum</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Latest Technology Knowledge</li>\n          </li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Writing Optimized & Maintainable Code</li>\n          </li>\n        </ul>\n        ")], {
     attr: {
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
@@ -2904,17 +3039,17 @@ return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
         'id': {
             v: 'skills'
         },
-        'mahal-04644cf5': {
+        'mahal-7c896ff1': {
             v: ''
         }
     }
 })
 }
-;// CONCATENATED MODULE: ./src/components/skills.mahal?mahal&type=html&id=04644cf5&scoped=false
- /* harmony default export */ const skills_mahal_mahal_type_html_id_04644cf5_scoped_false = (skills_mahal_mahal_type_html_id_04644cf5_scoped_false_anonymous); 
-// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=style&lang=css&index=0&id=04644cf5&scoped=
-var skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_ = __webpack_require__(233);
-;// CONCATENATED MODULE: ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=style&lang=css&index=0&id=04644cf5&scoped=
+;// CONCATENATED MODULE: ./src/components/skills.mahal?mahal&type=html&id=7c896ff1&scoped=false
+ /* harmony default export */ const skills_mahal_mahal_type_html_id_7c896ff1_scoped_false = (skills_mahal_mahal_type_html_id_7c896ff1_scoped_false_anonymous); 
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=style&lang=css&index=0&id=7c896ff1&scoped=
+var skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_ = __webpack_require__(735);
+;// CONCATENATED MODULE: ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=style&lang=css&index=0&id=7c896ff1&scoped=
 
       
       
@@ -2926,27 +3061,27 @@ var skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_ = __webpa
       
       
 
-var skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_options = {};
+var skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_options = {};
 
-skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_options.styleTagTransform = (styleTagTransform_default());
-skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_options.setAttributes = (setAttributesWithoutAttributes_default());
+skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_options.styleTagTransform = (styleTagTransform_default());
+skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_options.setAttributes = (setAttributesWithoutAttributes_default());
 
-      skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_options.insert = insertBySelector_default().bind(null, "head");
+      skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_options.insert = insertBySelector_default().bind(null, "head");
     
-skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_options.domAPI = (styleDomAPI_default());
-skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_options.insertStyleElement = (insertStyleElement_default());
+skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_options.domAPI = (styleDomAPI_default());
+skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_options.insertStyleElement = (insertStyleElement_default());
 
-var skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_update = injectStylesIntoStyleTag_default()(skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_/* default */.Z, skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_options);
-
-
+var skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_update = injectStylesIntoStyleTag_default()(skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_/* default */.Z, skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_options);
 
 
-       /* harmony default export */ const components_skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_ = (skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_/* default */.Z && skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_/* default.locals */.Z.locals ? skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_/* default.locals */.Z.locals : undefined);
 
-;// CONCATENATED MODULE: ./src/components/skills.mahal?mahal&type=style&lang=css&index=0&id=04644cf5&scoped=
- /* harmony default export */ const src_components_skills_mahal_mahal_type_style_lang_css_index_0_id_04644cf5_scoped_ = ((/* unused pure expression or super */ null && (code))); 
-;// CONCATENATED MODULE: ./node_modules/ts-loader/index.js??ruleSet[1].rules[3].use!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=script&lang=ts&id=04644cf5
-var skills_mahal_mahal_type_script_lang_ts_id_04644cf5_extends = (undefined && undefined.__extends) || (function () {
+
+       /* harmony default export */ const components_skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_ = (skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_/* default */.Z && skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_/* default.locals */.Z.locals ? skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_/* default.locals */.Z.locals : undefined);
+
+;// CONCATENATED MODULE: ./src/components/skills.mahal?mahal&type=style&lang=css&index=0&id=7c896ff1&scoped=
+ /* harmony default export */ const src_components_skills_mahal_mahal_type_style_lang_css_index_0_id_7c896ff1_scoped_ = ((/* unused pure expression or super */ null && (code))); 
+;// CONCATENATED MODULE: ./node_modules/ts-loader/index.js??ruleSet[1].rules[3].use!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=script&lang=ts&id=7c896ff1
+var skills_mahal_mahal_type_script_lang_ts_id_7c896ff1_extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
             ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -2962,17 +3097,17 @@ var skills_mahal_mahal_type_script_lang_ts_id_04644cf5_extends = (undefined && u
     };
 })();
 
-var skills_mahal_mahal_type_script_lang_ts_id_04644cf5_default_1 = /** @class */ (function (_super) {
-    skills_mahal_mahal_type_script_lang_ts_id_04644cf5_extends(default_1, _super);
+var skills_mahal_mahal_type_script_lang_ts_id_7c896ff1_default_1 = /** @class */ (function (_super) {
+    skills_mahal_mahal_type_script_lang_ts_id_7c896ff1_extends(default_1, _super);
     function default_1() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     return default_1;
 }(npm_export.Component));
-/* harmony default export */ const skills_mahal_mahal_type_script_lang_ts_id_04644cf5 = (skills_mahal_mahal_type_script_lang_ts_id_04644cf5_default_1);
+/* harmony default export */ const skills_mahal_mahal_type_script_lang_ts_id_7c896ff1 = (skills_mahal_mahal_type_script_lang_ts_id_7c896ff1_default_1);
 
-;// CONCATENATED MODULE: ./src/components/skills.mahal?mahal&type=script&lang=ts&id=04644cf5
- /* harmony default export */ const components_skills_mahal_mahal_type_script_lang_ts_id_04644cf5 = (skills_mahal_mahal_type_script_lang_ts_id_04644cf5); 
+;// CONCATENATED MODULE: ./src/components/skills.mahal?mahal&type=script&lang=ts&id=7c896ff1
+ /* harmony default export */ const components_skills_mahal_mahal_type_script_lang_ts_id_7c896ff1 = (skills_mahal_mahal_type_script_lang_ts_id_7c896ff1); 
 ;// CONCATENATED MODULE: ./src/components/skills.mahal
 
 
@@ -2982,8 +3117,8 @@ var skills_mahal_mahal_type_script_lang_ts_id_04644cf5_default_1 = /** @class */
 
 ;
     var skills_mahal_component = (0,render_component/* renderComponent */.S)({
-        script:components_skills_mahal_mahal_type_script_lang_ts_id_04644cf5,
-        render:skills_mahal_mahal_type_html_id_04644cf5_scoped_false
+        script:components_skills_mahal_mahal_type_script_lang_ts_id_7c896ff1,
+        render:skills_mahal_mahal_type_html_id_7c896ff1_scoped_false
     })
     /* harmony default export */ const skills_mahal = (skills_mahal_component);
 ;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/achievements.mahal?mahal&type=html&id=11168f08&scoped=false
@@ -3847,7 +3982,7 @@ module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%
 },
 /******/ __webpack_require__ => { // webpackRuntimeModules
 /******/ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-/******/ __webpack_require__.O(0, [595,331,928,537], () => (__webpack_exec__(333)));
+/******/ __webpack_require__.O(0, [595,331,928,537], () => (__webpack_exec__(406)));
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ }
 ]);
