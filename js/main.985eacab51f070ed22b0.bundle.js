@@ -727,12 +727,368 @@ var render_component = __webpack_require__(394);
     })
     /* harmony default export */ const nav_bar_mahal = (component);
 ;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/about.mahal?mahal&type=html&id=7e28e462&scoped=true
-function about_mahal_mahal_type_html_id_7e28e462_scoped_true_anonymous(
+function about_mahal_mahal_type_html_id_7e28e462_scoped_true_anonymous(renderer
 ) {
-console.error("Expected ' or \"  or attribute value but \"_\" found.");const template=`"<section class=\"resume-section p-3 p-lg-5 d-flex d-column\" id=\"about\">\n\t<div class=\"my-auto\">\n\t\t<h1 class=\"mb-0\">Ujjwal\n\t\t\t<span class=\"text-primary\">Gupta</span>\n\t\t</h1>\n\t\t<br/>\n\t\t<div class=\"subheading mb-5\">Bengaluru (India)\n\t\t</div>\n\t\t<p class=\"mb-5\">\n\t\t\t<!-- Author of JsStore and Fortjs. A young tech enthusiast and fast learner who love to code, research and not limited to any\n          programming language or technology. -->\n\t\t\t<!-- A young tech enthusiast and fast learner who love to code, research and not\n          limited to any particular programming language or technology. I am polyglot software developer and keep myself\n          updated with latest technology trends & ready to learn or experiment with different tech stack\n          as required. -->\n\t\t\tCreator of popular projects JsStore & FortJs | Full stack web developer | Polyglot developer | Tech\n\t\t\tenthusiast\n\t\t\t| Javascript & Typescript Lover | Sleeper\n\t\t</p>\n\t\t<ul class=\"list-social-icons mb-0\">\n\t\t\t<li>\n\t\t\t\t<a target=\"_blank\" href=\"https://twitter.com/ujjwal_kr_gupta\">\n\t\t\t\t\t<span class=\"fa-stack fa-lg\">\n\t\t\t\t\t\t<i class=\"fa fa-circle fa-stack-2x\"></i>\n\t\t\t\t\t\t<i class=\"fab fa-twitter fa-stack-1x fa-inverse\"></i>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"text\">https://twitter.com/ujjwal_kr_gupta</span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a target=\"_blank\" href=\"https://www.linkedin.com/in/ujjwalkrgupta/\">\n\t\t\t\t\t<span class=\"fa-stack fa-lg\">\n\t\t\t\t\t\t<i class=\"fa fa-circle fa-stack-2x\"></i>\n\t\t\t\t\t\t<i class=\"fab fa-linkedin-in fa-stack-1x fa-inverse\"></i>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"text\">https://www.linkedin.com/in/ujjwalkrgupta</span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a target=\"_blank\" href=\"https://github.com/ujjwalguptaofficial/\">\n\t\t\t\t\t<span class=\"fa-stack fa-lg\">\n\t\t\t\t\t\t<i class=\"fa fa-circle fa-stack-2x\"></i>\n\t\t\t\t\t\t<i class=\"fab fa-github fa-stack-1x fa-inverse\"></i>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"text\">https://github.com/ujjwalguptaofficial</span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a target=\"_blank\" href=\"https://stackoverflow.com/users/4393136/ujjwal-kumar-gupta/\">\n\t\t\t\t\t<span class=\"fa-stack fa-lg\">\n\t\t\t\t\t\t<i class=\"fa fa-circle fa-stack-2x\"></i>\n\t\t\t\t\t\t<i class=\"fab fa-stack-overflow fa-stack-1x fa-inverse\"></i>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"text\">https://stackoverflow.com/users/4393136/ujjwal-kumar-gupta</span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a target=\"_blank\" href=\"https://ujjwalkrgupta.medium.com/\">\n\t\t\t\t\t<span class=\"fa-stack fa-lg\">\n\t\t\t\t\t\t<i class=\"fa fa-circle fa-stack-2x\"></i>\n\t\t\t\t\t\t<i class=\"fab fa-medium-m fa-stack-1x fa-inverse\"></i>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"text\">https://ujjwalkrgupta.medium.com/</span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t</ul>\n\t</div>\n</section>"`;const location={"start":{"offset":1002,"line":22,"column":16},"end":{"offset":1003,"line":22,"column":17}};const css = 'background: #28334AFF; color: #FBDE44FF; font-size:16px;';const lines = template.split("\n"); console.log("%c" + lines.slice(0, location.start.line - 1).join("\n") +
-            "%c" + lines.slice(location.start.line - 1, location.end.line).join("\n") +
-            "%c" + lines.slice(location.end.line).join("\n")
-            , css, css + ';color:#F65058FF', css);return document.createComment('');
+const ctx = this;
+const ce = renderer.createElement;
+const ct = renderer.createTextNode;
+const f = renderer.format;
+const he = renderer.runExp;
+return ce('section', [ce('div', [ce('h1', [ct("Ujjwal "), ce('span', [ct("Gupta")], {
+    attr: {
+        'class': {
+            v: 'text-primary'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'mb-0'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('br', [], {
+    attr: {
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('div', [ct("Bengaluru (India) ")], {
+    attr: {
+        'class': {
+            v: 'subheading mb-5'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('p', [ce(null, [ct(" Author of JsStore and Fortjs. A young tech enthusiast and fast learner who love to code, research and not limited to any\n          programming language or technology. ")], {
+    attr: {
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce(null, [ct(" A young tech enthusiast and fast learner who love to code, research and not\n          limited to any particular programming language or technology. I am polyglot software developer and keep myself\n          updated with latest technology trends & ready to learn or experiment with different tech stack\n          as required. ")], {
+    attr: {
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ct(" Creator of popular projects JsStore & FortJs | Full stack web developer | Polyglot developer | Tech enthusiast | Javascript & Typescript Lover | Sleeper ")], {
+    attr: {
+        'class': {
+            v: 'mb-5'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('ul', [ce('li', [ce('a', [ce('span', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fa fa-circle fa-stack-2x'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-twitter fa-stack-1x fa-inverse'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'fa-stack fa-lg'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("https://twitter.com/ujjwal_kr_gupta")], {
+    attr: {
+        'class': {
+            v: 'text'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'target': {
+            v: '_blank'
+        },
+        'href': {
+            v: 'https://twitter.com/ujjwal_kr_gupta'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('a', [ce('span', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fa fa-circle fa-stack-2x'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-linkedin-in fa-stack-1x fa-inverse'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'fa-stack fa-lg'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("https://www.linkedin.com/in/ujjwalkrgupta")], {
+    attr: {
+        'class': {
+            v: 'text'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'target': {
+            v: '_blank'
+        },
+        'href': {
+            v: 'https://www.linkedin.com/in/ujjwalkrgupta/'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('a', [ce('span', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fa fa-circle fa-stack-2x'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-github fa-stack-1x fa-inverse'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'fa-stack fa-lg'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("https://github.com/ujjwalguptaofficial")], {
+    attr: {
+        'class': {
+            v: 'text'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'target': {
+            v: '_blank'
+        },
+        'href': {
+            v: 'https://github.com/ujjwalguptaofficial/'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('a', [ce('span', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fa fa-circle fa-stack-2x'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-stack-overflow fa-stack-1x fa-inverse'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'fa-stack fa-lg'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("https://stackoverflow.com/users/4393136/ujjwal-kumar-gupta")], {
+    attr: {
+        'class': {
+            v: 'text'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'target': {
+            v: '_blank'
+        },
+        'href': {
+            v: 'https://stackoverflow.com/users/4393136/ujjwal-kumar-gupta/'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('a', [ce('span', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fa fa-circle fa-stack-2x'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-medium-m fa-stack-1x fa-inverse'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'fa-stack fa-lg'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("https://ujjwalkrgupta.medium.com/")], {
+    attr: {
+        'class': {
+            v: 'text'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'target': {
+            v: '_blank'
+        },
+        'href': {
+            v: 'https://ujjwalkrgupta.medium.com/'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-social-icons mb-0'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'my-auto'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'resume-section p-3 p-lg-5 d-flex d-column'
+        },
+        'id': {
+            v: 'about'
+        },
+        'mahal-7e28e462': {
+            v: ''
+        }
+    }
+})
 }
 ;// CONCATENATED MODULE: ./src/components/about.mahal?mahal&type=html&id=7e28e462&scoped=true
  /* harmony default export */ const about_mahal_mahal_type_html_id_7e28e462_scoped_true = (about_mahal_mahal_type_html_id_7e28e462_scoped_true_anonymous); 
@@ -1506,7 +1862,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Education")], {
             v: ''
         }
     }
-}), ce('null', [ct(" <p>GPA: 3.23</p> ")], {
+}), ce(null, [ct(" <p>GPA: 3.23</p> ")], {
     attr: {
         'mahal-40c1171b': {
             v: ''
@@ -1645,12 +2001,914 @@ var education_mahal_mahal_type_script_lang_ts_id_40c1171b_default_1 = /** @class
     })
     /* harmony default export */ const education_mahal = (education_mahal_component);
 ;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/skills.mahal?mahal&type=html&id=04644cf5&scoped=false
-function skills_mahal_mahal_type_html_id_04644cf5_scoped_false_anonymous(
+function skills_mahal_mahal_type_html_id_04644cf5_scoped_false_anonymous(renderer
 ) {
-console.error("Expected ' or \"  but \"_\" found.");const template=`"<section class=\"resume-section p-3 p-lg-5 d-flex flex-column\" id=\"skills\">\n\t<div>\n\t\t<h2 class=\"mb-5\">Skills</h2>\n\t\t\n\t\t<div class=\"subheading mb-3\">Programming Languages &amp; Tools</div>\n\t\t<ul class=\"list-inline list-icons\">\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-csharp-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">C-Sharp</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-javascript-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">JavaScript</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-typescript-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">TypeScript</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-dot-net-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">.net</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-html5-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Html5</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-css3-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Css3</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-less-plain-wordmark\"></i>\n\t\t\t\t<span class=\"skill-text\">Less</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-bootstrap-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Bootstrap</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-sass-original\"></i>\n\t\t\t\t<span class=\"skill-text\">Saas</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-jquery-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Jquery</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-vuejs-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">VueJs</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-react-original\"></i>\n\t\t\t\t<span class=\"skill-text\">ReactJs</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-angularjs-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Angular</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-webpack-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Webpack</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"fab fa-node\"></i>\n\t\t\t\t<span class=\"skill-text\">NodeJs</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-express-original\"></i>\n\t\t\t\t<span class=\"skill-text\">Express</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<img src=\"img/nest.svg\" style=\"width:50px;height:55px;vertical-align:sub;line-height:1;\" />\n\t\t\t\t<span class=\"skill-text\">NestJs</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<img src=\"img/electron.svg\" style=\"width:50px;height:50px;vertical-align:baseline;line-height:1;\" />\n\t\t\t\t<span class=\"skill-text\">ElectronJs</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-mocha-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Mocha</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-mysql-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">MySql</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-mongodb-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">MongoDb</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-visualstudio-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Visual Studio</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-trello-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Trello</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-bitbucket-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">BitBucket</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-github-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Github</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-git-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Git</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-nginx-original\"></i>\n\t\t\t\t<span class=\"skill-text\">Nginix</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<i class=\"devicon-travis-plain\"></i>\n\t\t\t\t<span class=\"skill-text\">Travis</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<img src=\"img/cordova_bot.png\" style=\"width:50px;height:50px;vertical-align:baseline;line-height:1;\" />\n\t\t\t\t<span class=\"skill-text\">Cordova</span>\n\t\t\t</li>\n\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t<img src=\"img/nuxt.png\" style=\"width:90px;height:50px;vertical-align:sub;line-height:1;\" />\n\t\t\t\t<span class=\"skill-text\">NuxtJs</span>\n\t\t\t</li>\n\t\t</ul>\n\t\t<div class=\"subheading mb-3\">MISC</div>\n\t\t<ul>\n\t\t\t<li>Can lead a team or multiple team.</li>\n\t\t\t<li>Can help hiring great engineers.</li>\n\t\t</ul>\n\t\t<!-- <div class=\"subheading mb-3\" style=\"margin-top: 40px;\">Workflow</div>\n        <ul class=\"fa-ul mb-0 list-item\">\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Pixel Perfect Design\n          </li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Mobile-First, Responsive Design</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Cross Browser Testing &amp; Debugging</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Cross Functional Teams</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Agile Development &amp; Scrum</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Latest Technology Knowledge</li>\n          </li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Writing Optimized & Maintainable Code</li>\n          </li>\n        </ul>\n        -->\n\t</div>\n</section>"`;const location={"start":{"offset":3970,"line":120,"column":26},"end":{"offset":3971,"line":120,"column":27}};const css = 'background: #28334AFF; color: #FBDE44FF; font-size:16px;';const lines = template.split("\n"); console.log("%c" + lines.slice(0, location.start.line - 1).join("\n") +
-            "%c" + lines.slice(location.start.line - 1, location.end.line).join("\n") +
-            "%c" + lines.slice(location.end.line).join("\n")
-            , css, css + ';color:#F65058FF', css);return document.createComment('');
+const ctx = this;
+const ce = renderer.createElement;
+const ct = renderer.createTextNode;
+const f = renderer.format;
+const he = renderer.runExp;
+return ce('section', [ce('div', [ce('h2', [ct("Skills")], {
+    attr: {
+        'class': {
+            v: 'mb-5'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('div', [ct("Programming Languages &amp; Tools")], {
+    attr: {
+        'class': {
+            v: 'subheading mb-3'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('ul', [ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-csharp-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("C-Sharp")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-javascript-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("JavaScript")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-typescript-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("TypeScript")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-dot-net-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct(".net")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-html5-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Html5")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-css3-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Css3")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-less-plain-wordmark'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Less")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-bootstrap-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Bootstrap")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-sass-original'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Saas")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-jquery-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Jquery")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-vuejs-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("VueJs")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-react-original'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("ReactJs")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-angularjs-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Angular")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-webpack-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Webpack")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-node'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("NodeJs")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-express-original'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Express")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('img', [], {
+    attr: {
+        'src': {
+            v: 'img/nest.svg'
+        },
+        'style': {
+            v: 'width:50px;height:55px;vertical-align:sub;line-height:1;'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("NestJs")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('img', [], {
+    attr: {
+        'src': {
+            v: 'img/electron.svg'
+        },
+        'style': {
+            v: 'width:50px;height:50px;vertical-align:baseline;line-height:1;'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("ElectronJs")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-mocha-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Mocha")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-mysql-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("MySql")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-mongodb-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("MongoDb")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-visualstudio-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Visual Studio")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-trello-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Trello")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-bitbucket-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("BitBucket")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-github-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Github")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-git-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Git")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-nginx-original'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Nginix")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'devicon-travis-plain'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Travis")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('img', [], {
+    attr: {
+        'src': {
+            v: 'img/cordova_bot.png'
+        },
+        'style': {
+            v: 'width:50px;height:50px;vertical-align:baseline;line-height:1;'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("Cordova")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ce('img', [], {
+    attr: {
+        'src': {
+            v: 'img/nuxt.png'
+        },
+        'style': {
+            v: 'width:90px;height:50px;vertical-align:sub;line-height:1;'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('span', [ct("NuxtJs")], {
+    attr: {
+        'class': {
+            v: 'skill-text'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline-item'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'list-inline list-icons'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('div', [ct("MISC")], {
+    attr: {
+        'class': {
+            v: 'subheading mb-3'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('ul', [ce('li', [ct("Can lead a team or multiple team.")], {
+    attr: {
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce('li', [ct("Can help hiring great engineers.")], {
+    attr: {
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+}), ce(null, [ct(" <div class=\"subheading mb-3\" style=\"margin-top: 40px;\">Workflow</div>\n        <ul class=\"fa-ul mb-0 list-item\">\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Pixel Perfect Design\n          </li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Mobile-First, Responsive Design</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Cross Browser Testing &amp; Debugging</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Cross Functional Teams</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Agile Development &amp; Scrum</li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Latest Technology Knowledge</li>\n          </li>\n          <li>\n            <i class=\"fa-li fa fa-check\"></i>\n            Writing Optimized & Maintainable Code</li>\n          </li>\n        </ul>\n        ")], {
+    attr: {
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'resume-section p-3 p-lg-5 d-flex flex-column'
+        },
+        'id': {
+            v: 'skills'
+        },
+        'mahal-04644cf5': {
+            v: ''
+        }
+    }
+})
 }
 ;// CONCATENATED MODULE: ./src/components/skills.mahal?mahal&type=html&id=04644cf5&scoped=false
  /* harmony default export */ const skills_mahal_mahal_type_html_id_04644cf5_scoped_false = (skills_mahal_mahal_type_html_id_04644cf5_scoped_false_anonymous); 
@@ -2147,12 +3405,122 @@ var interest_mahal_mahal_type_script_lang_ts_id_62f89e7f_default_1 = /** @class 
     })
     /* harmony default export */ const interest_mahal = (interest_mahal_component);
 ;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/hire_me.mahal?mahal&type=html&id=52358c4d&scoped=false
-function hire_me_mahal_mahal_type_html_id_52358c4d_scoped_false_anonymous(
+function hire_me_mahal_mahal_type_html_id_52358c4d_scoped_false_anonymous(renderer
 ) {
-console.error("Expected <, <!--, close tag, html, or mustache expression but \"{\" found.");const template=`"<section class=\"resume-section p-3 p-lg-5 d-flex flex-column height-half-on-print\" id=\"hire-me\">\n\t<h2 class=\"mb-5\">Hire Me</h2>\n\t<pre style=\"font-weight: bold;\">\n        var question1 = \"Are you developing something exciting or an awesome future product ?\";\n        var question2 = \"do you want me to work with you on your amazing journey ?\";\n        \n        var answer = {\n          question1:true,\n          question2:true\n        };\n\n        if( answer.question1 === true && answer.question2 === true) {\n            print(\"Let's have a talk. Message me using any of the social network platform or \n            mail me at - ujjwalkumargupta44@gmail.com\");\n\n            print (\"I am also very OK to working remotely & actually i would love to.\")\n        }\n        else {\n            print(\"Let's connect on any of the social platform.\");\n        }\n      </pre>\n\t<p style=\"font-size: 30px; text-align: center;\">\n\t\t<a target=\"_blank\" href=\"https://twitter.com/ujjwal_kr_gupta\">\n\t\t\t<i class=\"fab fa-twitter\"></i>\n\t\t</a>\n\t\t<a style=\"margin-left:20px;\" target=\"_blank\" href=\"https://www.linkedin.com/in/ujjwalkrgupta/\">\n\t\t\t<i class=\"fab fa-linkedin-in\"></i>\n\t\t</a>\n\t\t<a style=\"margin-left:20px;\" target=\"_blank\" href=\"https://ujjwalkrgupta.medium.com/\">\n\t\t\t<i class=\"fab fa-medium-m\"></i>\n\t\t</a>\n\t</p>\n</section>"`;const location={"start":{"offset":373,"line":7,"column":22},"end":{"offset":374,"line":7,"column":23}};const css = 'background: #28334AFF; color: #FBDE44FF; font-size:16px;';const lines = template.split("\n"); console.log("%c" + lines.slice(0, location.start.line - 1).join("\n") +
-            "%c" + lines.slice(location.start.line - 1, location.end.line).join("\n") +
-            "%c" + lines.slice(location.end.line).join("\n")
-            , css, css + ';color:#F65058FF', css);return document.createComment('');
+const ctx = this;
+const ce = renderer.createElement;
+const ct = renderer.createTextNode;
+const f = renderer.format;
+const he = renderer.runExp;
+return ce('section', [ce('h2', [ct("Hire Me")], {
+    attr: {
+        'class': {
+            v: 'mb-5'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+}), ce('pre', [ct(" var question1 = \"Are you developing something exciting or an awesome future product ?\"; var question2 = \"do you want me to work with you on your amazing journey ?\"; var answer = { question1:true, question2:true }; if( answer.question1 === true && answer.question2 === true) { print(\"Let's have a talk. Message me using any of the social network platform or mail me at - ujjwalkumargupta44@gmail.com\"); print (\"I am also very OK to working remotely & actually i would love to.\") } else { print(\"Let's connect on any of the social platform.\"); } ")], {
+    attr: {
+        'style': {
+            v: 'font-weight: bold;'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+}), ce('p', [ce('a', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-twitter'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'target': {
+            v: '_blank'
+        },
+        'href': {
+            v: 'https://twitter.com/ujjwal_kr_gupta'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+}), ce('a', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-linkedin-in'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'style': {
+            v: 'margin-left:20px;'
+        },
+        'target': {
+            v: '_blank'
+        },
+        'href': {
+            v: 'https://www.linkedin.com/in/ujjwalkrgupta/'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+}), ce('a', [ce('i', [], {
+    attr: {
+        'class': {
+            v: 'fab fa-medium-m'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'style': {
+            v: 'margin-left:20px;'
+        },
+        'target': {
+            v: '_blank'
+        },
+        'href': {
+            v: 'https://ujjwalkrgupta.medium.com/'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'style': {
+            v: 'font-size: 30px; text-align: center;'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+})], {
+    attr: {
+        'class': {
+            v: 'resume-section p-3 p-lg-5 d-flex flex-column height-half-on-print'
+        },
+        'id': {
+            v: 'hire-me'
+        },
+        'mahal-52358c4d': {
+            v: ''
+        }
+    }
+})
 }
 ;// CONCATENATED MODULE: ./src/components/hire_me.mahal?mahal&type=html&id=52358c4d&scoped=false
  /* harmony default export */ const hire_me_mahal_mahal_type_html_id_52358c4d_scoped_false = (hire_me_mahal_mahal_type_html_id_52358c4d_scoped_false_anonymous); 
@@ -2399,10 +3767,6 @@ window['jQuery'] = window['$'] = __webpack_require__(755);
 
 
 
-npm_export.HTML_TAG.img = true;
-npm_export.HTML_TAG.nav = true;
-npm_export.HTML_TAG.br = true;
-npm_export.HTML_TAG.i = true;
 var app = new npm_export.Mahal(app_mahal, '#app');
 registerGlobalFormatter(app);
 app.create();
