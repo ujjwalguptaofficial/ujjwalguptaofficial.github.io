@@ -1,7 +1,10 @@
 const path = require('path');
 const MahalPlugin = require('mahal-webpack-loader/lib/plugin');
 const HtmlWebPackPlugin = require('html-webpack-plugin');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const CopyPlugin = require('copy-webpack-plugin');
 
+const rootFolder = path.join(__dirname, '../');
 
 module.exports = {
     entry: './src/index.ts',
@@ -21,9 +24,7 @@ module.exports = {
                 test: /\.css?$/,
                 use: [
                     'style-loader',
-                    {
-                        loader: require.resolve('css-loader')
-                    }
+                    'css-loader'
                 ],
             },
             {
@@ -46,27 +47,31 @@ module.exports = {
                     }
                 },
                 exclude: /node_modules/,
-            }
+            },
+            // Images
+            {
+                test: /\.(?:ico|gif|png|jpg|jpeg)$/i,
+                type: 'asset/resource',
+            },
+            // Fonts and SVGs
+            {
+                test: /\.(woff(2)?|eot|ttf|otf|svg|)$/,
+                type: 'asset/inline',
+            },
         ]
     },
     resolve: {
         extensions: ['.ts', '.js', '.css', '.mahal', '.scss'],
         alias: {
-            "~": path.join(__dirname),
-            "@": path.join(__dirname, 'src'),
-            "@config": path.join(__dirname, 'config'),
-            "@components": path.join(__dirname, 'src', 'components')
+            "~": rootFolder,
+            "@": path.join(rootFolder, 'src'),
+            "@config": path.join(rootFolder, 'config'),
+            "@components": path.join(rootFolder, 'src', 'components')
         },
-    },
-    devServer: {
-        static: {
-            directory: path.join(__dirname, 'public'),
-        },
-        historyApiFallback: true,
     },
     output: {
         filename: 'bundles.js',
-        path: path.resolve(__dirname, 'dist/'),
+        path: path.resolve(rootFolder, 'dist'),
         publicPath: '/'
     },
     plugins: [
@@ -84,6 +89,13 @@ module.exports = {
                 removeScriptTypeAttributes: true,
                 removeStyleLinkTypeAttributes: true
             }
-        })
+        }),
+        new CleanWebpackPlugin(),
+        new CopyPlugin({
+            patterns: [{
+                from: './assets/',
+                to: ''
+            }]
+        }),
     ]
 };
