@@ -8,10 +8,6 @@ import 'bootstrap/scss/bootstrap.scss';
 import 'bootstrap';
 import "@/styles/index.scss";
 
-HTML_TAG['img'] = true;
-HTML_TAG['nav'] = true;
-HTML_TAG['br'] = true;
-HTML_TAG['i'] = true;
 
 const app = new Mahal(App, '#app');
 registerGlobalFormatter(app);
