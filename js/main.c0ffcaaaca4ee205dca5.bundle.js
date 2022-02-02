@@ -3556,7 +3556,7 @@ return ce('section', [ce('h2', [ct("Hire Me")], {
             v: ''
         }
     }
-}), ce('pre', [ct(" var question1 = \"Are you developing something exciting or an awesome future product ?\"; var question2 = \"do you want me to work with you on your amazing journey ?\"; var answer = { question1:true, question2:true }; if( answer.question1 === true && answer.question2 === true) { print(\"Let's have a talk. Message me using any of the social network platform or mail me at - ujjwalkumargupta44@gmail.com\"); print (\"I am also very OK to working remotely & actually i would love to.\") } else { print(\"Let's connect on any of the social platform.\"); } ")], {
+}), ce('pre', [ct("\n        var question1 = \"Are you developing something exciting or an awesome future product ?\";\n        var question2 = \"do you want me to work with you on your amazing journey ?\";\n        \n        var answer = {\n          question1:true,\n          question2:true\n        };\n\n        if( answer.question1 === true && answer.question2 === true) {\n            print(\"Let's have a talk. Message me using any of the social network platform or \n            mail me at - ujjwalkumargupta44@gmail.com\");\n\n            print (\"I am also very OK to working remotely & actually i would love to.\")\n        }\n        else {\n            print(\"Let's connect on any of the social platform.\");\n        }\n      ")], {
     attr: {
         'style': {
             v: 'font-weight: bold;'
