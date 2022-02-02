@@ -67,7 +67,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "\n", ""]);
 
 /***/ }),
 
-/***/ 258:
+/***/ 381:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -221,7 +221,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "body{font-family:\"Open Sans\",serif;p
 
 /***/ }),
 
-/***/ 406:
+/***/ 23:
 /***/ ((__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) => {
 
 
@@ -1166,8 +1166,8 @@ var about_mahal_mahal_type_script_lang_ts_id_c90de2b4_default_1 = /** @class */ 
         render:about_mahal_mahal_type_html_id_c90de2b4_scoped_true
     })
     /* harmony default export */ const about_mahal = (about_mahal_component);
-;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=html&id=95b95b94&scoped=false
-function experience_mahal_mahal_type_html_id_95b95b94_scoped_false_anonymous(renderer
+;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=html&id=4adb5178&scoped=false
+function experience_mahal_mahal_type_html_id_4adb5178_scoped_false_anonymous(renderer
 ) {
 const ctx = this;
 const ce = renderer.createElement;
@@ -1179,7 +1179,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'mb-5'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1188,7 +1188,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'mb-0'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1197,31 +1197,31 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'subheading mb-3'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('p', [ce('ul', [ce('li', [ct("Working remotely as Full stack engineer")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('li', [ct("Writing optimized & maintainable code")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('li', [ct("Researching and experimenting with different technology")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('li', [ct("Technology advisor & trainer")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1230,13 +1230,13 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'list-item'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1245,7 +1245,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'padding-top: 10px;'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1254,7 +1254,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'vertical-align: top;'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1263,7 +1263,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-content mr-auto'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1272,7 +1272,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'text-primary'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1281,7 +1281,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-date text-md-right'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1290,7 +1290,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-item d-flex flex-column flex-md-row mb-5'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1299,7 +1299,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'mb-0'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1308,13 +1308,13 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'subheading mb-3'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('p', [], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1323,7 +1323,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'padding-top: 10px;'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1332,7 +1332,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'vertical-align: top;'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1341,7 +1341,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-content mr-auto'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1350,7 +1350,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'text-primary'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1359,7 +1359,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-date text-md-right'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1368,7 +1368,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-item d-flex flex-column flex-md-row mb-5'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1377,7 +1377,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'mb-0'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1386,43 +1386,43 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'subheading mb-3'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
-}), ce('p', [ce('ul', [ce('li', [ct("Manging different projects with ownership - Matic.js, Bridge Explorer, Bridge widget etc")], {
+}), ce('p', [ce('ul', [ce('li', [ct("Managing different projects with ownership - Matic.js, Bridge Explorer, Bridge widget etc")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('li', [ct("Managing front end team")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
-}), ce('li', [ct("Managing all front end projects")], {
+}), ce('li', [ct("Managing all front end projects with code review and deployment.")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('li', [ct("Mentoring everyone")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('li', [ct("Hiring resources")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 }), ce('li', [ct("Helping users by different channels - Github issues, telegram etc")], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1431,13 +1431,13 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'list-item'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1446,7 +1446,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'padding-top: 10px;'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1455,7 +1455,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'style': {
             v: 'vertical-align: top;'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1464,7 +1464,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-content mr-auto'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1473,7 +1473,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'text-primary'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1482,7 +1482,7 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-date text-md-right'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1491,13 +1491,13 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'class': {
             v: 'resume-item d-flex flex-column flex-md-row mb-5'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 })], {
     attr: {
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
@@ -1509,17 +1509,17 @@ return ce('section', [ce('div', [ce('h2', [ct("Experience")], {
         'id': {
             v: 'experience'
         },
-        'mahal-95b95b94': {
+        'mahal-4adb5178': {
             v: ''
         }
     }
 })
 }
-;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=html&id=95b95b94&scoped=false
- /* harmony default export */ const experience_mahal_mahal_type_html_id_95b95b94_scoped_false = (experience_mahal_mahal_type_html_id_95b95b94_scoped_false_anonymous); 
-// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=95b95b94&scoped=
-var experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_ = __webpack_require__(258);
-;// CONCATENATED MODULE: ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=95b95b94&scoped=
+;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=html&id=4adb5178&scoped=false
+ /* harmony default export */ const experience_mahal_mahal_type_html_id_4adb5178_scoped_false = (experience_mahal_mahal_type_html_id_4adb5178_scoped_false_anonymous); 
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=4adb5178&scoped=
+var experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_ = __webpack_require__(381);
+;// CONCATENATED MODULE: ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js!./node_modules/mahal-webpack-loader/lib/plugin/scoped_css_loader.js!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=4adb5178&scoped=
 
       
       
@@ -1531,27 +1531,27 @@ var experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_ = __w
       
       
 
-var experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options = {};
+var experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_options = {};
 
-experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.styleTagTransform = (styleTagTransform_default());
-experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.setAttributes = (setAttributesWithoutAttributes_default());
+experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_options.styleTagTransform = (styleTagTransform_default());
+experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_options.setAttributes = (setAttributesWithoutAttributes_default());
 
-      experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.insert = insertBySelector_default().bind(null, "head");
+      experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_options.insert = insertBySelector_default().bind(null, "head");
     
-experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.domAPI = (styleDomAPI_default());
-experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options.insertStyleElement = (insertStyleElement_default());
+experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_options.domAPI = (styleDomAPI_default());
+experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_options.insertStyleElement = (insertStyleElement_default());
 
-var experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_update = injectStylesIntoStyleTag_default()(experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_/* default */.Z, experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_options);
-
-
+var experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_update = injectStylesIntoStyleTag_default()(experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_/* default */.Z, experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_options);
 
 
-       /* harmony default export */ const components_experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_ = (experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_/* default */.Z && experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_/* default.locals */.Z.locals ? experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_/* default.locals */.Z.locals : undefined);
 
-;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=95b95b94&scoped=
- /* harmony default export */ const src_components_experience_mahal_mahal_type_style_lang_css_index_0_id_95b95b94_scoped_ = ((/* unused pure expression or super */ null && (code))); 
-;// CONCATENATED MODULE: ./node_modules/ts-loader/index.js??ruleSet[1].rules[3].use!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=script&lang=ts&id=95b95b94
-var experience_mahal_mahal_type_script_lang_ts_id_95b95b94_extends = (undefined && undefined.__extends) || (function () {
+
+       /* harmony default export */ const components_experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_ = (experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_/* default */.Z && experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_/* default.locals */.Z.locals ? experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_/* default.locals */.Z.locals : undefined);
+
+;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=style&lang=css&index=0&id=4adb5178&scoped=
+ /* harmony default export */ const src_components_experience_mahal_mahal_type_style_lang_css_index_0_id_4adb5178_scoped_ = ((/* unused pure expression or super */ null && (code))); 
+;// CONCATENATED MODULE: ./node_modules/ts-loader/index.js??ruleSet[1].rules[3].use!./node_modules/mahal-webpack-loader/lib/index.js!./src/components/experience.mahal?mahal&type=script&lang=ts&id=4adb5178
+var experience_mahal_mahal_type_script_lang_ts_id_4adb5178_extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
             ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -1567,17 +1567,17 @@ var experience_mahal_mahal_type_script_lang_ts_id_95b95b94_extends = (undefined 
     };
 })();
 
-var experience_mahal_mahal_type_script_lang_ts_id_95b95b94_default_1 = /** @class */ (function (_super) {
-    experience_mahal_mahal_type_script_lang_ts_id_95b95b94_extends(default_1, _super);
+var experience_mahal_mahal_type_script_lang_ts_id_4adb5178_default_1 = /** @class */ (function (_super) {
+    experience_mahal_mahal_type_script_lang_ts_id_4adb5178_extends(default_1, _super);
     function default_1() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     return default_1;
 }(npm_export.Component));
-/* harmony default export */ const experience_mahal_mahal_type_script_lang_ts_id_95b95b94 = (experience_mahal_mahal_type_script_lang_ts_id_95b95b94_default_1);
+/* harmony default export */ const experience_mahal_mahal_type_script_lang_ts_id_4adb5178 = (experience_mahal_mahal_type_script_lang_ts_id_4adb5178_default_1);
 
-;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=script&lang=ts&id=95b95b94
- /* harmony default export */ const components_experience_mahal_mahal_type_script_lang_ts_id_95b95b94 = (experience_mahal_mahal_type_script_lang_ts_id_95b95b94); 
+;// CONCATENATED MODULE: ./src/components/experience.mahal?mahal&type=script&lang=ts&id=4adb5178
+ /* harmony default export */ const components_experience_mahal_mahal_type_script_lang_ts_id_4adb5178 = (experience_mahal_mahal_type_script_lang_ts_id_4adb5178); 
 ;// CONCATENATED MODULE: ./src/components/experience.mahal
 
 
@@ -1587,8 +1587,8 @@ var experience_mahal_mahal_type_script_lang_ts_id_95b95b94_default_1 = /** @clas
 
 ;
     var experience_mahal_component = (0,render_component/* renderComponent */.S)({
-        script:components_experience_mahal_mahal_type_script_lang_ts_id_95b95b94,
-        render:experience_mahal_mahal_type_html_id_95b95b94_scoped_false
+        script:components_experience_mahal_mahal_type_script_lang_ts_id_4adb5178,
+        render:experience_mahal_mahal_type_html_id_4adb5178_scoped_false
     })
     /* harmony default export */ const experience_mahal = (experience_mahal_component);
 ;// CONCATENATED MODULE: ./node_modules/mahal-webpack-loader/lib/index.js!./src/components/project.mahal?mahal&type=html&id=25d8413d&scoped=false
@@ -3982,7 +3982,7 @@ module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%
 },
 /******/ __webpack_require__ => { // webpackRuntimeModules
 /******/ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-/******/ __webpack_require__.O(0, [595,331,928,537], () => (__webpack_exec__(406)));
+/******/ __webpack_require__.O(0, [595,331,928,537], () => (__webpack_exec__(23)));
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ }
 ]);
