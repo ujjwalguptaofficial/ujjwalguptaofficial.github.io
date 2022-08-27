@@ -1,6 +1,6 @@
 ---
 name: app.mahal
-description:
+description: 
 dateCreated:
 ---
 
@@ -21,8 +21,7 @@ dateCreated:
 </html>
 
 <script>
-import { BaseComponent } from "@/components/base_component";
-import { Children, Reactive } from "mahal";
+import { Children, Reactive, Component } from "mahal";
 import NavBar from "@/components/nav_bar.mahal";
 import About from "@/components/about.mahal";
 import Experience from "@/components/experience.mahal";
@@ -46,7 +45,7 @@ declare var $;
     Interest,
     HireMe,
 })
-export default class extends BaseComponent {
+export default class extends Component {
     @Reactive appName = "Mahal";
 
     onInit() {

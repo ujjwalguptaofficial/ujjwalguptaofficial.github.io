@@ -1,4 +1,4 @@
-import { HTML_TAG, Mahal } from "mahal";
+import { Mahal } from "mahal";
 import App from "@/app.mahal";
 import { registerGlobalFormatter } from "@/formatters";
 
