@@ -14,7 +14,8 @@ dateCreated:
 				<div class="subheading mb-3">Polygon (Matic network)</div>
 				<p>
 				<ul class="list-item">
-					<li>Managing different projects with ownership - Matic.js, Bridge Explorer, Wallet etc</li>
+					<li>Managing different projects with ownership - Matic.js, Bridge Explorer, Wallet suite, Bridge
+						widget etc</li>
 					<li>Managing front end team</li>
 					<li>Managing all front end projects with code review and deployment.</li>
 					<li>Mentoring everyone</li>
@@ -24,7 +25,7 @@ dateCreated:
 				</p>
 				<h4 style="padding-top: 10px;">Tech Used : - </h4>
 				<div style="vertical-align: top;">
-					Javascript, Typescript, VueJs, Vuex, NodeJs, Webpack, Html5, Css3, es6,
+					Javascript, Typescript, Solidity, VueJs, Vuex, NodeJs, Webpack, Html5, Css3, es6,
 					Web3.js, ether.js, Library development
 				</div>
 			</div>
