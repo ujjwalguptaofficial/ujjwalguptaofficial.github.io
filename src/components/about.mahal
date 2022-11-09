@@ -13,7 +13,7 @@ dateCreated:
 		<br />
 		<div class="subheading mb-3">Bengaluru (India)
 		</div>
-		<p class="mb-5">
+		<p class="mb-5 lead" style="font-weight:600;">
 			<!-- Author of JsStore and Fortjs. A young tech enthusiast and fast learner who love to code, research and not limited to any
           programming language or technology. -->
 			<!-- A young tech enthusiast and fast learner who love to code, research and not
@@ -21,27 +21,26 @@ dateCreated:
           updated with latest technology trends & ready to learn or experiment with different tech stack
           as required. -->
 			I am someone who loves coding, always building something. Don't know why ? but it satisfies me immensely
-			when i build something even a smaller program. And i am always proud of all projects i have worked on -
+			when i build something even a smaller program. I am always proud of all projects i have worked on -
 			either it is my employment or open source.
 			
 		<p class="mt-4 highlight">
 			I believe in opensource and that's why i have build many tools, framework , libraries etc. It has allowed me
-			to explore my true potential and helped me to become better every day. The interesting thing is this
+			to explore my true potential and helped me to become better every day. The interesting thing is - this
 			portfolio is created using <a href="https://github.com/ujjwalguptaofficial/mahal">mahal framework</a>
 			created by me.
 		</p>
 		
 		<p>
-			One of my believe is - Sharing knowledge. I am always up for discussions with anyone and always try to share
+			One of my believe is - Sharing knowledge. I am always up for discussions with anyone and always try to
+			share, learn
 			and mentor peoples. I have received some amazing feedback by my colleague.
 		</p>
 		
-		<p>
 		<div class="row">
 			<img class="col-6" :src="'a.png'|imgPath" />
 			<img class="col-6" :src="'b.png'|imgPath" />
 		</div>
-		</p>
 		
 		<!-- Creator of popular projects JsStore & FortJs | Full stack web developer | Polyglot developer | Tech
 			enthusiast
@@ -49,15 +48,7 @@ dateCreated:
 		</p>
 		<h5>👉 Here are some links which will give you more insights about me -</h5>
 		<ul class="list-social-icons mb-0">
-			<li>
-				<a target="_blank" href="https://twitter.com/ujjwal_kr_gupta">
-					<span class="fa-stack fa-lg">
-						<i class="fa fa-circle fa-stack-2x"></i>
-						<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-					</span>
-					<span class="text">https://twitter.com/ujjwal_kr_gupta</span>
-				</a>
-			</li>
+			
 			<li>
 				<a target="_blank" href="https://www.linkedin.com/in/ujjwalkrgupta/">
 					<span class="fa-stack fa-lg">
@@ -92,6 +83,15 @@ dateCreated:
 						<i class="fab fa-medium-m fa-stack-1x fa-inverse"></i>
 					</span>
 					<span class="text">https://ujjwalkrgupta.medium.com/</span>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://twitter.com/ujjwal_kr_gupta">
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+					</span>
+					<span class="text">https://twitter.com/ujjwal_kr_gupta</span>
 				</a>
 			</li>
 		</ul>
