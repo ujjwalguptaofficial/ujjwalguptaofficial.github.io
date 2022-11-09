@@ -21,7 +21,7 @@ dateCreated:
 </html>
 
 <script>
-import { Children, Reactive, Component } from "mahal";
+import { children, reactive, Component } from "mahal";
 import NavBar from "@/components/nav_bar.mahal";
 import About from "@/components/about.mahal";
 import Experience from "@/components/experience.mahal";
@@ -34,7 +34,7 @@ import HireMe from "@/components/hire_me.mahal";
 
 declare var $;
 
-@Children({
+@children({
     NavBar,
     About,
     Experience,
@@ -46,7 +46,7 @@ declare var $;
     HireMe,
 })
 export default class extends Component {
-    @Reactive appName = "Mahal";
+    @reactive appName = "Mahal";
 
     onInit() {
         console.log("component initiated");

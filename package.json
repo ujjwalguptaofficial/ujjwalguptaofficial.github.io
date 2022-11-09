@@ -16,12 +16,12 @@
     "devicons": "^1.8.0",
     "jquery": "^3.4.1",
     "jquery.easing": "^1.4.1",
-    "mahal": "^1.4.3",
+    "mahal": "^1.8.3",
     "popper.js": "^1.14.3",
     "simple-line-icons": "^2.4.1"
   },
   "devDependencies": {
-    "@mahaljs/webpack-loader": "^1.4.3",
+    "@mahaljs/webpack-loader": "^1.8.1",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^10.2.4",
     "cross-env": "^7.0.3",
